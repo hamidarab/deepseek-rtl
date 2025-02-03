@@ -1,1 +1,1 @@
-console.log("RTL Persian Text Extension Loaded!");
+console.log("Deepseek RTL Extension Loaded!");
