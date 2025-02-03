@@ -1,0 +1,1 @@
+console.log("RTL Persian Text Extension Loaded!");

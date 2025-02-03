@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "RTL Persian Text",
+    "version": "1.0",
+    "description": "تبدیل متن فارسی به راست‌به‌چپ (RTL) در صفحات وب.",
+    "icons": {
+      "48": "icon.png"
+    },
+    "permissions": ["activeTab"],
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["content.js"],
+        "css": ["styles.css"]
+      }
+    ]
+  }

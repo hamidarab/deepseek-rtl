@@ -1,0 +1,10 @@
+/* Change Direction */
+body * {
+    direction: rtl !important;
+    text-align: right !important;
+}
+  
+/* Set font */
+body {
+    font-family: 'Tahoma', 'Arial', sans-serif !important;
+}
