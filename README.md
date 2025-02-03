@@ -25,7 +25,7 @@
 
 ---
 
-### ۲. نصب در مرورگر Google Chrome
+### ۳. نصب در مرورگر Google Chrome
 ۱. مرورگر Google Chrome را باز کنید.
 ۲. به آدرس `chrome://extensions/` بروید.
 ۳. گزینه **Developer mode** را در پایین صفحه فعال کنید.
